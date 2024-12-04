@@ -1,0 +1,16 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido com Next.js e React, focado em soluções modernas para gestão e exibição de conteúdos inspirado nos aprendizados do curso.dev e e nas funcionalidades do TabNews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
